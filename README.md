@@ -8,5 +8,8 @@ This project involves developing a comprehensive mobile application using Ionic 
 with Python and PHP handling the backend functionalities. The goal is to create a seamless, 
 responsive mobile application that integrates well with robust backend services to provide a rich user experience.
 
-soon using ionic and python
+soon using 
+ionic and python and block chain
 ionic and block chain
+flutter with python,php and block chain
+native react with python,php and block chain
